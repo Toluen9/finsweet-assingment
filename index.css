@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .container{
-    width: 1000px;
+    
     margin: 30px auto;
     
 }
@@ -43,4 +43,7 @@ h1{
 .mec--img{
     width: 550px;
     margin-top: 50px;
+}
+.btn{
+    width: 500px;
 }
